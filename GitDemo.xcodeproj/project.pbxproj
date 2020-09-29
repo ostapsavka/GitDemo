@@ -13,6 +13,7 @@
 		AE54F3FD2523635100EFF39E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE54F3FC2523635100EFF39E /* Assets.xcassets */; };
 		AE54F4002523635100EFF39E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE54F3FF2523635100EFF39E /* Preview Assets.xcassets */; };
 		AE54F4032523635100EFF39E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AE54F4012523635100EFF39E /* LaunchScreen.storyboard */; };
+		AEDEA2342523684B00D01D6A /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = AEDEA2332523684B00D01D6A /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AE54F3FF2523635100EFF39E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AE54F4022523635100EFF39E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AE54F4042523635100EFF39E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AEDEA2332523684B00D01D6A /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		AE54F3EA2523634E00EFF39E = {
 			isa = PBXGroup;
 			children = (
+				AEDEA2332523684B00D01D6A /* .gitignore */,
 				AE54F3F52523634E00EFF39E /* GitDemo */,
 				AE54F3F42523634E00EFF39E /* Products */,
 			);
@@ -133,6 +136,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AEDEA2342523684B00D01D6A /* .gitignore in Resources */,
 				AE54F4032523635100EFF39E /* LaunchScreen.storyboard in Resources */,
 				AE54F4002523635100EFF39E /* Preview Assets.xcassets in Resources */,
 				AE54F3FD2523635100EFF39E /* Assets.xcassets in Resources */,
